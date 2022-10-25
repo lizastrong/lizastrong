@@ -1,11 +1,10 @@
 # Hey hey 👋 I'm Liza!!
 
-I'm an aspiring fullstack developer currently living abroad in Tallin, Estonia 🇪🇪
+I'm an aspiring fullstack developer living abroad in Tallin, Estonia 🇪🇪
 
-I recently graduated from UCLA 💛💙🐻 with no idea what to do with my life...but alas I found my calling in
-programming 🤝
+I'm currently developing a Web3 e-commerce application within a server-less architecture using Next.js, Supabase, Vercel, and Wagmi. 
 
 ### Bio:
 - 👀 I'm currently learning React and Redux
-- 🌱 I’m want to learn more about Web3 and crypto
+- 🌱 I’m want to learn more about Web3, crypto, and continue to contribute to open source projects
 - 🧶 Fun fact: I love to crochet and I'm obsessed with building Legos!
