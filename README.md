@@ -1,6 +1,6 @@
 # Hey 👋 I'm Liza!!
 
-I'm an aspiring fullstack developer living abroad in Tallin, Estonia 🇪🇪
+I'm an aspiring fullstack developer living abroad!
 
 I'm currently developing a Web3 e-commerce application within a server-less architecture using Next.js, Supabase, Vercel, and Wagmi. 
 
