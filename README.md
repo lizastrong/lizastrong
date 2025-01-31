@@ -30,7 +30,7 @@ When I'm not coding, you'll find me:
 - Crocheting beanie's for my weiner dog 🐶
 
 ## 📫 Let's Connect!
-Feel free to reach out if you want to collaborate, need some tech advice, or just want to chat!
+Feel free to reach out if you want to collaborate or just want to chat!
 
 [LinkedIn](https://linkedin.com/in/lizastrong) | [Website](https://lizastrong.xyz)
 
