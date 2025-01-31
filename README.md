@@ -1,13 +1,13 @@
-\# 👋 Hey there, I'm Liza!
+# 👋 Hey there, I'm Liza!
 
 Full-stack engineer by day, ramen enthusiast and crochet artist by night. I love building things that make people's lives easier.
 
-\## 🚀 What I'm Up To
+## 🚀 What I'm Up To
 
-\- Leading development of web3-enabled e-commerce solutions
-\- Building scalable, user-centric applications
+- Leading development of web3-enabled e-commerce solutions
+- Building scalable, user-centric applications
 
-\## 💻 Stack
+## 💻 Stack
 
 \```javascript
 const liza = {
@@ -20,16 +20,16 @@ const liza = {
 }
 \```
 
-\## 🎯 Focus Areas
-\- Web3 Development
-\- E-commerce Solutions
+## 🎯 Focus Areas
+- Web3 Development
+- E-commerce Solutions
 
-\## 🌈 Fun Facts
+## 🌈 Fun Facts
 When I'm not coding, you'll find me:
-\- Binge eating Daelmans stroopwafels 🍪
-\- Crocheting beanie's for my weiner dog 🐶
+- Binge eating Daelmans stroopwafels 🍪
+- Crocheting beanie's for my weiner dog 🐶
 
-\## 📫 Let's Connect!
+## 📫 Let's Connect!
 Feel free to reach out if you want to collaborate, need some tech advice, or just want to chat!
 
 [LinkedIn](https://linkedin.com/in/lizastrong) | [Website](https://lizastrong.xyz)
