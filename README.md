@@ -9,7 +9,7 @@ Full-stack engineer by day, ramen enthusiast and crochet artist by night. I love
 
 ## 💻 Stack
 
-\```javascript
+```javascript
 const liza = {
   languages: ['JavaScript', 'TypeScript', 'Python', 'Node', 'Java', 'HTML', 'CSS', 'C++', 'C#', 'SQL', 'Liquid'],
   frameworks: ['React.js', 'Next.js', 'Three.js', 'Express', 'SwiftUI', 'Jest', 'Mocha', 'Chai'],
@@ -18,7 +18,7 @@ const liza = {
   cloud: ['GCP', 'Vercel'],
   currentlyLearning: 'Always something new! 🌱'
 }
-\```
+```
 
 ## 🎯 Focus Areas
 - Web3 Development
