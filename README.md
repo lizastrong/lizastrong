@@ -23,11 +23,13 @@ const liza = {
 ## 🎯 Focus Areas
 - Web3 Development
 - E-commerce Solutions
+- Fintech
 
 ## 🌈 Fun Facts
 When I'm not coding, you'll find me:
 - Binge eating Daelmans stroopwafels 🍪
 - Crocheting beanie's for my weiner dog 🐶
+- Collecting Pokemon + Gundam
 
 ## 📫 Let's Connect!
 Feel free to reach out if you want to collaborate or just want to chat!
